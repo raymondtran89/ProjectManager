@@ -1,0 +1,4 @@
+E:\Work\Project\Manage Project\trunk\ProjectManager\MyUtility\bin\Debug\MyUtility.dll
+E:\Work\Project\Manage Project\trunk\ProjectManager\MyUtility\bin\Debug\MyUtility.pdb
+E:\Work\Project\Manage Project\trunk\ProjectManager\MyUtility\obj\Debug\MyUtility.dll
+E:\Work\Project\Manage Project\trunk\ProjectManager\MyUtility\obj\Debug\MyUtility.pdb

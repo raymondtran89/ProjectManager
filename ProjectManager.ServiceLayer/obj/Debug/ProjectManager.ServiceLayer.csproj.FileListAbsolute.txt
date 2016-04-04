@@ -1,0 +1,9 @@
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.ServiceLayer\bin\Debug\ProjectManager.ServiceLayer.dll
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.ServiceLayer\bin\Debug\ProjectManager.ServiceLayer.pdb
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.ServiceLayer\obj\Debug\ProjectManager.ServiceLayer.dll
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.ServiceLayer\obj\Debug\ProjectManager.ServiceLayer.pdb
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.ServiceLayer\obj\Debug\ProjectManager.ServiceLayer.csprojResolveAssemblyReference.cache
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.ServiceLayer\bin\Debug\ProjectManager.DataAccessLayer.dll
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.ServiceLayer\bin\Debug\EntityFramework.dll
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.ServiceLayer\bin\Debug\ProjectManager.DataAccessLayer.pdb
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.ServiceLayer\bin\Debug\EntityFramework.xml

@@ -1,0 +1,10 @@
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.Entity\bin\Debug\ProjectManager.Entity.dll.config
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.Entity\bin\Debug\ProjectManager.Entity.dll
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.Entity\bin\Debug\ProjectManager.Entity.pdb
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.Entity\bin\Debug\EntityFramework.dll
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.Entity\bin\Debug\EntityFramework.SqlServer.dll
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.Entity\bin\Debug\EntityFramework.xml
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.Entity\bin\Debug\EntityFramework.SqlServer.xml
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.Entity\obj\Debug\ProjectManager.Entity.csprojResolveAssemblyReference.cache
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.Entity\obj\Debug\ProjectManager.Entity.dll
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.Entity\obj\Debug\ProjectManager.Entity.pdb

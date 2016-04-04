@@ -1,0 +1,13 @@
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.DataAccessLayer\bin\Debug\ProjectManager.DataAccessLayer.dll.config
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.DataAccessLayer\bin\Debug\ProjectManager.DataAccessLayer.dll
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.DataAccessLayer\bin\Debug\ProjectManager.DataAccessLayer.pdb
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.DataAccessLayer\bin\Debug\EntityFramework.dll
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.DataAccessLayer\bin\Debug\EntityFramework.xml
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.DataAccessLayer\obj\Debug\ProjectManager.DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.DataAccessLayer\obj\Debug\ProjectManager.DataAccessLayer.Migrations.Init.resources
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.DataAccessLayer\obj\Debug\ProjectManager.DataAccessLayer.csproj.GenerateResource.Cache
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.DataAccessLayer\obj\Debug\ProjectManager.DataAccessLayer.dll
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.DataAccessLayer\obj\Debug\ProjectManager.DataAccessLayer.pdb
+E:\Work\Project\Manage Project\trunk\ProjectManager\ProjectManager.DataAccessLayer\bin\Debug\Microsoft.Web.Infrastructure.dll

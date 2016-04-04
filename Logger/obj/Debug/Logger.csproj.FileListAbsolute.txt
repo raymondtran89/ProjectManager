@@ -1,0 +1,7 @@
+E:\Work\Project\Manage Project\trunk\ProjectManager\Logger\bin\Debug\Logger.dll
+E:\Work\Project\Manage Project\trunk\ProjectManager\Logger\bin\Debug\Logger.pdb
+E:\Work\Project\Manage Project\trunk\ProjectManager\Logger\bin\Debug\log4net.dll
+E:\Work\Project\Manage Project\trunk\ProjectManager\Logger\bin\Debug\log4net.pdb
+E:\Work\Project\Manage Project\trunk\ProjectManager\Logger\bin\Debug\log4net.xml
+E:\Work\Project\Manage Project\trunk\ProjectManager\Logger\obj\Debug\Logger.dll
+E:\Work\Project\Manage Project\trunk\ProjectManager\Logger\obj\Debug\Logger.pdb
